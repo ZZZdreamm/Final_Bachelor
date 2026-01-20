@@ -64,7 +64,6 @@ export function Card({
     style,
   ];
 
-  // If onPress is provided, use TouchableOpacity, otherwise use View
   if (onPress) {
     return (
       <TouchableOpacity

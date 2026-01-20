@@ -20,6 +20,7 @@ dependencies = [
     "trimesh (>=4.10.1,<5.0.0)",
     "pyrender (>=0.1.45,<0.2.0)",
     "opencv-python-headless (>=4.12.0.88,<5.0.0.0)",
+    "torchvision (>=0.24.1,<0.25.0)",
 ]
 
 [build-system]

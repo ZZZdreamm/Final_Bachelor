@@ -6,7 +6,6 @@ import {
   StyleSheet,
   ViewStyle,
   TextStyle,
-  View,
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { Theme } from '@/constants/Theme';

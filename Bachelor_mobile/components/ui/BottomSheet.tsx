@@ -10,7 +10,6 @@ import Animated, {
   useSharedValue,
   useAnimatedStyle,
   withSpring,
-  runOnJS,
   interpolate,
 } from 'react-native-reanimated';
 import { Gesture, GestureDetector } from 'react-native-gesture-handler';
@@ -31,7 +30,7 @@ interface BottomSheetProps {
 }
 
 const SNAP_POINTS: Record<SnapPoint, number> = {
-  collapsed: 0.225,  // Base level - buttons clear Android navigation
+  collapsed: 0.225,  // Base level 
   half: 0.5,        // Middle position
   expanded: 0.85,    // Full expansion
 };

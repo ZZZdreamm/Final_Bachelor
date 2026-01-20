@@ -56,7 +56,6 @@ export const ReviewPhotoView: React.FC<ReviewPhotoViewProps> = ({
 
   return (
     <View style={styles.container}>
-      {/* Top Bar */}
       <View style={styles.topBarContainer}>
         <TopBar
           title={isModelDataAvailable ? 'Building Found' : 'Review Photo'}
