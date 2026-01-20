@@ -114,6 +114,7 @@ Requires Expo development build on device. See [Bachelor_mobile/README.md](Bache
 ### Backend Server
 
 ```bash
+cd bachelor
 # Configure environment variables in .env
 docker-compose up --build
 ```
