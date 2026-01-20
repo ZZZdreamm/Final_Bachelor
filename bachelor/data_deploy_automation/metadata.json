@@ -1,0 +1,651 @@
+{
+    "AGH": {
+        "name": "AGH",
+        "location": {
+            "latitude": 50.06453545686784,
+            "longitude": 19.923548625739112
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "AGH Wydział Zarządzania": {
+        "name": "AGH Wydział Zarządzania",
+        "location": {
+            "latitude": 50.07027169090763,
+            "longitude": 19.90649409647579
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Agrykola": {
+        "name": "Agrykola",
+        "location": {
+            "latitude": 52.217886957804346,
+            "longitude": 21.031408805593518
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Axisviana": {
+        "name": "Axisviana",
+        "location": {
+            "latitude": 41.702608700508655,
+            "longitude": -8.819810907256489
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Biblioteka Uniwersytet Wrocławski": {
+        "name": "Biblioteka Uniwersytet Wrocławski",
+        "location": {
+            "latitude": 51.11211246045771,
+            "longitude": 17.050339745793234
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Bristol3Ddone": {
+        "name": "Bristol3Ddone",
+        "location": {
+            "latitude": 1.0,
+            "longitude": 1.0
+        },
+        "height": 0.0,
+        "width": 0.0,
+        "depth": 0.0,
+        "should_skip": true
+    },
+    "Budynek wielorodzinny Pruszków": {
+        "name": "Budynek wielorodzinny Pruszków",
+        "location": {
+            "latitude": 1.0,
+            "longitude": 1.0
+        },
+        "height": 0.0,
+        "width": 0.0,
+        "depth": 0.0,
+        "should_skip": true
+    },
+    "cw2_12": {
+        "name": "cw2_12",
+        "location": {
+            "latitude": 1.0,
+            "longitude": 1.0
+        },
+        "height": 0.0,
+        "width": 0.0,
+        "depth": 0.0,
+        "should_skip": true
+    },
+    "Dom nad Rozchodnikiem": {
+        "name": "Dom nad Rozchodnikiem",
+        "location": {
+            "latitude": 1.0,
+            "longitude": 1.0
+        },
+        "height": 0.0,
+        "width": 0.0,
+        "depth": 0.0,
+        "should_skip": true
+    },
+    "Dom Studencki Akademik": {
+        "name": "Dom Studencki Akademik",
+        "location": {
+            "latitude": 52.21787690628827,
+            "longitude": 20.984181835995187
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Dom Studencki Babilon": {
+        "name": "Dom Studencki Babilon",
+        "location": {
+            "latitude": 52.21757059425437,
+            "longitude": 20.97840610626181
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Dworzec w Pile": {
+        "name": "Dworzec w Pile",
+        "location": {
+            "latitude": 53.1431957478845,
+            "longitude": 16.743906002366362
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Działki": {
+        "name": "Działki",
+        "location": {
+            "latitude": 1.0,
+            "longitude": 1.0
+        },
+        "height": 0.0,
+        "width": 0.0,
+        "depth": 0.0,
+        "should_skip": true
+    },
+    "Filharmonia Orłowska Rasztawicka": {
+        "name": "Filharmonia Orłowska Rasztawicka",
+        "location": {
+            "latitude": 1.0,
+            "longitude": 1.0
+        },
+        "height": 0.0,
+        "width": 0.0,
+        "depth": 0.0,
+        "should_skip": true
+    },
+    "Główny Urzad Statystyczny": {
+        "name": "Główny Urzad Statystyczny",
+        "location": {
+            "latitude": 52.21674636519772,
+            "longitude": 21.00647699636432
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Gmach Fizyki Politechniki Warszawskiej": {
+        "name": "Gmach Fizyki Politechniki Warszawskiej",
+        "location": {
+            "latitude": 52.221408702472836,
+            "longitude": 21.00722211474949
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Gmach Główny KUL": {
+        "name": "Gmach Główny KUL",
+        "location": {
+            "latitude": 51.24801436995078,
+            "longitude": 22.543496675664024
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Hale Mirowskie": {
+        "name": "Hale Mirowskie",
+        "location": {
+            "latitude": 52.23886966486879,
+            "longitude": 20.99705911296557
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Hotel Karter Jutrzenki": {
+        "name": "Hotel Karter Jutrzenki",
+        "location": {
+            "latitude": 52.17886761308165,
+            "longitude": 20.919860231745414
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Hotel Lord": {
+        "name": "Hotel Lord",
+        "location": {
+            "latitude": 52.186891805136945,
+            "longitude": 20.9556495560376
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Hotel Mansor Ząbki": {
+        "name": "Hotel Mansor Ząbki",
+        "location": {
+            "latitude": 52.28901121113126,
+            "longitude": 21.111467882874905
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Hotel Stary Spichlerz Gdańsk": {
+        "name": "Hotel Stary Spichlerz Gdańsk",
+        "location": {
+            "latitude": 54.349350184567946,
+            "longitude": 18.661099634392702
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Ilmet": {
+        "name": "Ilmet",
+        "location": {
+            "latitude": 52.23236624995318,
+            "longitude": 20.997098482872943
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Kamienica": {
+        "name": "Kamienica",
+        "location": {
+            "latitude": 1.0,
+            "longitude": 1.0
+        },
+        "height": 0.0,
+        "width": 0.0,
+        "depth": 0.0,
+        "should_skip": true
+    },
+    "Koprówka": {
+        "name": "Koprówka",
+        "location": {
+            "latitude": 52.05918009172135,
+            "longitude": 21.382531956409682
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Kosciół Boromeusza Powązki": {
+        "name": "Kosciół Boromeusza Powązki",
+        "location": {
+            "latitude": 52.253385890264795,
+            "longitude": 20.97786481356175
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Kosciół Boromeusza Wrocław": {
+        "name": "Kosciół Boromeusza Wrocław",
+        "location": {
+            "latitude": 51.09404793204142,
+            "longitude": 17.010530209545678
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Kościół pw. św. Teresy": {
+        "name": "Kościół pw. św. Teresy",
+        "location": {
+            "latitude": 52.20746389545866,
+            "longitude": 20.90412665024908
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Kościół św. Wojciecha": {
+        "name": "Kościół św. Wojciecha",
+        "location": {
+            "latitude": 52.23326669451709,
+            "longitude": 20.961066565683847
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Kościół Ursus Niedźwiadek": {
+        "name": "Kościół Ursus Niedźwiadek",
+        "location": {
+            "latitude": 52.1922206999045,
+            "longitude": 20.862084407967952
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Królikarnia": {
+        "name": "Królikarnia",
+        "location": {
+            "latitude": 52.18907890078767,
+            "longitude": 21.028471998215696
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Kukawska Kęś": {
+        "name": "Kukawska Kęś",
+        "location": {
+            "latitude": 1.0,
+            "longitude": 1.0
+        },
+        "height": 0.0,
+        "width": 0.0,
+        "depth": 0.0,
+        "should_skip": true
+    },
+    "Lądowisko Szybowcowe Bezimiechowa": {
+        "name": "Lądowisko Szybowcowe Bezimiechowa",
+        "location": {
+            "latitude": 49.521808577123146,
+            "longitude": 22.410964052902763
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "MINI Politechnika Warszawska": {
+        "name": "MINI Politechnika Warszawska",
+        "location": {
+            "latitude": 52.22219297628293,
+            "longitude": 21.007149067965855
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Muzeum Geologiczne": {
+        "name": "Muzeum Geologiczne",
+        "location": {
+            "latitude": 1.0,
+            "longitude": 1.0
+        },
+        "height": 0.0,
+        "width": 0.0,
+        "depth": 0.0,
+        "should_skip": true
+    },
+    "Muzeum Powstania": {
+        "name": "Muzeum Powstania",
+        "location": {
+            "latitude": 52.23237385902953,
+            "longitude": 20.98100776938098
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Najwyższa Izba Kontroli": {
+        "name": "Najwyższa Izba Kontroli",
+        "location": {
+            "latitude": 52.218446467344265,
+            "longitude": 20.99922283068825
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Palac Briggs Marki": {
+        "name": "Palac Briggs Marki",
+        "location": {
+            "latitude": 52.322627030373695,
+            "longitude": 21.105103180719105
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Pałac Czapskich": {
+        "name": "Pałac Czapskich",
+        "location": {
+            "latitude": 52.239493141326605,
+            "longitude": 21.015035296365028
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Pałac Krasińskich": {
+        "name": "Pałac Krasińskich",
+        "location": {
+            "latitude": 52.24936260466658,
+            "longitude": 21.0037521252014
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Pałac Puławy": {
+        "name": "Pałac Puławy",
+        "location": {
+            "latitude": 51.412458497256935,
+            "longitude": 21.959360655862106
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Pałac Wołodkiewiczow": {
+        "name": "Pałac Wołodkiewiczow",
+        "location": {
+            "latitude": 50.06527148896127,
+            "longitude": 19.946100273016192
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Pałacyk Rektorski": {
+        "name": "Pałacyk Rektorski",
+        "location": {
+            "latitude": 52.223371273915966,
+            "longitude": 21.004124898216766
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Parafia Św. Franciszka z Asyżu": {
+        "name": "Parafia Św. Franciszka z Asyżu",
+        "location": {
+            "latitude": 52.1901872511322,
+            "longitude": 20.961238434444518
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Piast Fabryka Łódź": {
+        "name": "Piast Fabryka Łódź",
+        "location": {
+            "latitude": 1.0,
+            "longitude": 1.0
+        },
+        "height": 0.0,
+        "width": 0.0,
+        "depth": 0.0,
+        "should_skip": true
+    },
+    "Plac Unii Lubelskiej": {
+        "name": "Plac Unii Lubelskiej",
+        "location": {
+            "latitude": 52.21268058283565,
+            "longitude": 21.019942041156497
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Przedszkole Secemin": {
+        "name": "Przedszkole Secemin",
+        "location": {
+            "latitude": 50.76535830329888,
+            "longitude": 19.833440371185148
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Ratusz Bielskpodlaski": {
+        "name": "Ratusz Bielskpodlaski",
+        "location": {
+            "latitude": 52.77093582191409,
+            "longitude": 23.192141171779046
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Ratusz Kluczbork Grudzińska": {
+        "name": "Ratusz Kluczbork Grudzińska",
+        "location": {
+            "latitude": 50.973010838325386,
+            "longitude": 18.214525615344126
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Ratusz Wrocław": {
+        "name": "Ratusz Wrocław",
+        "location": {
+            "latitude": 51.109622899867574,
+            "longitude": 17.032042131291956
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Ratusz Zamość": {
+        "name": "Ratusz Zamość",
+        "location": {
+            "latitude": 50.71755080737262,
+            "longitude": 23.2524963741531
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Sanktuarium Matki Bożej Fatimskiej": {
+        "name": "Sanktuarium Matki Bożej Fatimskiej",
+        "location": {
+            "latitude": 52.19226039712577,
+            "longitude": 20.862047740475713
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "SP2 Jana Pawła II Gołabki": {
+        "name": "SP2 Jana Pawła II Gołabki",
+        "location": {
+            "latitude": 52.20104760688156,
+            "longitude": 20.869277234703475
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Szkoła Główna Pożarnicza": {
+        "name": "Szkoła Główna Pożarnicza",
+        "location": {
+            "latitude": 52.271732631687506,
+            "longitude": 20.975261694513833
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Teatr Rampa": {
+        "name": "Teatr Rampa",
+        "location": {
+            "latitude": 52.2727111473428,
+            "longitude": 21.049167969382424
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Warsaw Trade Tower": {
+        "name": "Warsaw Trade Tower",
+        "location": {
+            "latitude": 52.23562242531461,
+            "longitude": 20.98308629074566
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "Wielka Synagoga": {
+        "name": "Wielka Synagoga",
+        "location": {
+            "latitude": 1.0,
+            "longitude": 1.0
+        },
+        "height": 0.0,
+        "width": 0.0,
+        "depth": 0.0,
+        "should_skip": true
+    },
+    "Zachęta": {
+        "name": "Zachęta",
+        "location": {
+            "latitude": 52.239498490589376,
+            "longitude": 21.011715917265803
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    },
+    "ZSO7 Szczecin": {
+        "name": "ZSO7 Szczecin",
+        "location": {
+            "latitude": 53.44023868287416,
+            "longitude": 14.547779668896567
+        },
+        "height": 100.0,
+        "width": 100.0,
+        "depth": 100.0,
+        "should_skip": true
+    }
+}
