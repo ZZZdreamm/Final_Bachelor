@@ -1,4 +1,4 @@
-# Building Recognition & 3D Model Search
+# Story Build - Building Recognition & 3D Model Search
 
 A full-stack computer vision application that enables users to capture building photos and automatically retrieve their 3D models using AI-powered building recognition and camera pose estimation.
 
