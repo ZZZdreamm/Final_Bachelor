@@ -34,13 +34,13 @@ def load_best_model():
     EMBEDDING_DIM = 1024 if args.big_fusion_head >= 2 else 512
     model = FusedFeatureModel(feature_dims=feature_extractor.feature_dims, embedding_dim=EMBEDDING_DIM, use_gate=bool(args.gate), big_fusion_head=args.big_fusion_head, use_models=MODELS_USED_FOR_TRAINING).to(device)
 
-    checkpoint = torch.load(FULL_CLASSIFICATION_MODEL_PATH, map_location=device)
+    checkpoint = torch.load(FULL_CLASSIFICATION_MODEL_PATH, map_location=device, weights_only=False)
     model.load_state_dict(checkpoint['model_state_dict'])
     prototype_tensor = checkpoint.get('prototype_tensor', None)
     class_ids = checkpoint.get('class_ids', None)
     id_to_tag = checkpoint.get('id_to_tag', None)
     tag_to_id = {tag: id for id, tag in id_to_tag.items()}
-    
+    print("Model loaded successfully.")
     pose_model = BuildingPoseEstimator(
         model_path=FULL_ESTIMATION_MODEL_PATH,
         config_path=FULL_ESTIMATION_DATASET_PATH,
