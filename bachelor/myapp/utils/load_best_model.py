@@ -7,7 +7,7 @@ from classificator_training.helpers.args import _override_args_from_model_name
 from myapp.AR.pose_network import BuildingPoseEstimator
 
 ENVIRONEMENT = os.getenv("ENVIRONMENT", "production")
-MODEL_PATH = "1_fused_feature_model.pth_full_clip1_segformer0_midas0_dpt0_gate0_batch64_traintypehardmining_bigfusionhead2_lr2e-07_margin1.2_alpha64.0_datasetsize114272_rendersBlenderRenders7_testdatatest_data3.model"
+MODEL_PATH = "1_fused_feature_model.pth_full_clip1_segformer0_midas0_dpt0_gate0_batch64_traintypehardmining_bigfusionhead2_lr2e-07_margin1.2_alpha64.0.model"
 FULL_MODEL_PATH = f"trained_model/" if ENVIRONEMENT == "development" else f"myapp/trained_model/"
 FULL_CLASSIFICATION_MODEL_PATH = FULL_MODEL_PATH + MODEL_PATH
 FULL_ESTIMATION_MODEL_PATH = FULL_MODEL_PATH + "estimation_pose_model.pth"
